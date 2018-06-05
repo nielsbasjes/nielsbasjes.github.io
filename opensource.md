@@ -9,5 +9,5 @@ order: 3
 I'm heavily into writing software.
 Very often I make hobby projects of mine opensource and work on projects of the Apache Software Foundation. 
 
-* https://github.com/nielsbasjes
+* [https://github.com/nielsbasjes](https://github.com/nielsbasjes)
 
